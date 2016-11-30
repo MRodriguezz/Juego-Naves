@@ -1,0 +1,12 @@
+{
+	"imagenes": [
+		{
+			"id": "img_1",
+			"src": "imagenes/nave_rebelde.png"
+		},
+		{
+			"id": "img_2",
+			"src": "imagenes/Nave_sayajin.png"
+		}
+	]
+}
